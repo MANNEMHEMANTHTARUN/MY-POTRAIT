@@ -1,0 +1,57 @@
+.body{
+  background-color: rgb(119,136,153);
+}
+.main{
+  width:100%;
+  display:flex;
+  flex-wrap: wrap;
+}
+.form{
+  width:58%;
+
+  margin-left: 45%;
+  margin-top: 4%;
+}
+table{
+  height:120%;
+  border: 1px solid white;
+  padding: 4px;
+  font-size: 20px;
+   width: 90%;
+}
+.register{
+  height: 250px;
+}
+select,input{
+  border-radius: 5px;
+height: 33px;
+width: 160px;
+}
+th{
+  font-size: 22px;
+    font-family: monospace;
+    color: cornsilk;
+}
+.header{
+  width: 100%;
+  background: coral;
+  display: flex;
+   /* position: absolute; */
+
+}
+.heading{
+width: 50%;
+font-family: fantasy;
+text-align: center;
+font-size: 20px;
+}
+button{
+  width: 21%;
+height: 15%;
+margin-left: 33%;
+}
+.info{
+  width:30%;
+  border: 1px solid white;
+
+}
